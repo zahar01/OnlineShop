@@ -54,7 +54,7 @@ main {
     background: none;
     border-radius: 42px;
     border: 2px solid black;
-    background-image: url("/OnlineShop/img/search-logo.png");
+    background-image: url("../img/search-logo.png");
     background-repeat: no-repeat;
     background-position: 50%;
     cursor: pointer;
@@ -75,20 +75,20 @@ main {
 }
 
 .menu__shopping-cart {
-    background-image: url("/OnlineShop/img/cart.png");
+    background-image: url("../img/cart.png");
     background-size: 80%;
     background-repeat: no-repeat;
     background-position: 50%;
 }
 
 .menu__favourites {
-    background-image: url("/OnlineShop/img/like.png");
+    background-image: url("../img/like.png");
     background-repeat: no-repeat;
     background-position: 50%;
 }
 
 .menu__personal-account {
-    background-image: url("/OnlineShop/img/user.png");
+    background-image: url("../img/user.png");
     background-repeat: no-repeat;
     background-position: 50%;
 }
@@ -229,7 +229,7 @@ footer {
     left: 50%;
     margin: 20px auto;
     /* border-style: dashed; */
-    background-image: url("/OnlineShop/db/events_img/raffle_001.png");
+    background-image: url("../db/events_img/raffle_001.png");
     width: 70%;
     height: 960px;
     text-align: center;
